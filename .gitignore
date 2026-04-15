@@ -1,2 +1,8 @@
 .env
-__pycache__
+.venv/
+.pytest_cache/
+__pycache__/
+.DS_Store
+artifacts/
+mlruns/
+word_count.zip
